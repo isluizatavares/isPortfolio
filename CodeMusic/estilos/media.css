@@ -13,12 +13,6 @@ Grandes: acima de 1200px
 */
 
 @media screen and (max-width:420px){
-    main{
-        background-color: lightcyan;
-        background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-        height: 150vh;
-        padding-top: 50vh; /*define o espaço da acima da div*/
-    }
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
@@ -42,16 +36,5 @@ Grandes: acima de 1200px
     
     main > div > p{
         text-align: center;
-    }
-
-    footer#rodape { 
-        background-image: linear-gradient(to top,  #000000, rgb(48, 45, 46));
-        color: #ffffff;
-        padding: 18px;
-        font-size: 16px; 
-        font-weight: bold;
-        font-family: 'Courier New', Courier, monospace;
-        text-align: center; 
-        position: relative;
     }
 }
