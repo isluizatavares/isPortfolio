@@ -101,6 +101,7 @@ footer#rodape {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     text-align: center; 
+    clear: both;
 }
 
 footer#rodape a {
