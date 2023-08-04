@@ -12,7 +12,7 @@ Grandes: acima de 1200px
 
 */
 
-@media screen and (max-width: 620px){
+@media screen and (max-width: 600px){
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
