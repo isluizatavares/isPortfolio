@@ -12,7 +12,7 @@ Grandes: acima de 1200px
 
 */
 
-@media screen and (max-width:910){
+@media screen and (max-width:420){
     main{
         background-color: lightcyan;
         background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
