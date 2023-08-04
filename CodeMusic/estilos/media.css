@@ -12,7 +12,7 @@ Grandes: acima de 1200px
 
 */
 
-@media screen and (max-width:420px){
+@media screen and (min-width:420px){
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
@@ -38,3 +38,4 @@ Grandes: acima de 1200px
         text-align: center;
     }
 }
+

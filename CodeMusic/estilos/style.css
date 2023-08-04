@@ -11,8 +11,9 @@
 main{
     background-color: lightcyan;
     background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-    height: 150vh;
-    padding-top: 75vh; /*define o espaço da acima da div*/
+    height: 100vh;
+    padding-top: 50vh; /*define o espaço da acima da div*/
+    padding-bottom: 10vh;
 }
 
 div{
