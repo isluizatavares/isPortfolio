@@ -22,7 +22,7 @@ Grandes: acima de 1200px
     div{
         background-color: rgba(255, 255, 255, 0.856);
         width: 290px;
-        height: 550px;
+        height: 520px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
@@ -44,8 +44,8 @@ Grandes: acima de 1200px
     }
 
     main{
-        height: 160vh; /**/
-        padding-top: 60vh;
+        height: 100vh; 
+        padding-bottom: 40vh;
     }
 }
 
