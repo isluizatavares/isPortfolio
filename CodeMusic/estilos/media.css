@@ -12,12 +12,12 @@ Grandes: acima de 1200px
 
 */
 
-@media screen and (min-width: 374px){
+@media screen and (min-width: 374px) and (max-width: 992px){
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
-        width: 280px;
-        height: 480px;
+        width: 290px;
+        height: 550px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
@@ -26,7 +26,7 @@ Grandes: acima de 1200px
     main > div > img.img1{
         width: 215px;
         padding-left: 11%;
-        padding-top: 8%;
+        padding-top: 15%;
     }
     
     main > div > img.img{
@@ -37,12 +37,10 @@ Grandes: acima de 1200px
     main > div > p{
         text-align: center;
     }
-}
 
-
-@media screen and (max-width: 896px){
     main{
-        height: 160vh;
-        padding-top: 60vh;
+        height: 140vh;
+        padding-top: 10vh;
     }
 }
+
