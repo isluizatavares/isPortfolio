@@ -44,7 +44,8 @@ Grandes: acima de 1200px
     }
 
     main{
-        height: 160vh; /**/
+        height: 146vh; /**/
+        padding-top: 10vh;
     }
 }
 
