@@ -12,7 +12,7 @@ main{
     background-color: lightcyan;
     background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
     height: 100vh;
-    padding-top: 50vh;
+    padding-top: 6vh;
 }
 
 div{
@@ -40,7 +40,7 @@ main > div > p{
 }
 
 main > div > p#text1{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bolder;
     font-family: 'Josefin Sans', sans-serif;
 
@@ -50,7 +50,7 @@ main > div > p#text1{
 }
 
 main > div > p#text2{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bolder;
     font-family: 'Josefin Sans', sans-serif;
 
@@ -60,7 +60,7 @@ main > div > p#text2{
 }
 
 main > div > p#text3{
-    font-size: 16px;
+    font-size: 13px;
     font-weight: bolder;
     font-family: 'PT Sans', sans-serif;
 
@@ -97,7 +97,7 @@ footer#rodape {
     background-image: linear-gradient(to top,  #000000, rgb(48, 45, 46));
     color: #ffffff;
     padding: 18px;
-    font-size: 16px; 
+    font-size: 15px; 
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     text-align: center; 

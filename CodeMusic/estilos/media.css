@@ -21,8 +21,8 @@ Grandes: acima de 1200px
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
-        width: 290px;
-        height: 520px;
+        width: 280px;
+        height: 452px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
@@ -31,7 +31,7 @@ Grandes: acima de 1200px
     main > div > img.img1{
         width: 215px;
         padding-left: 11%;
-        padding-top: 15%;
+        padding-top: 6%;
     }
     
     main > div > img.img{
@@ -44,8 +44,7 @@ Grandes: acima de 1200px
     }
 
     main{
-        height: 100vh; 
-        padding-bottom: 40vh;
+        padding-bottom: 14vh;
     }
 }
 
