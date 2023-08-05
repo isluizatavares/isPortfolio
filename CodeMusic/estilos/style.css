@@ -12,8 +12,7 @@ main{
     background-color: lightcyan;
     background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
     height: 100vh;
-    padding-top: 10vh;
-
+    padding-top: 50vh;
 }
 
 div{
