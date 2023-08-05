@@ -12,6 +12,11 @@ Grandes: acima de 1200px
 
 */
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 @media screen and (min-width: 374px) and (max-width: 992px){
 
     div{
@@ -39,8 +44,7 @@ Grandes: acima de 1200px
     }
 
     main{
-        height: 140vh;
-        padding-top: 10vh;
+        height: 140vh; /**/
     }
 }
 
