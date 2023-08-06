@@ -50,13 +50,13 @@ Grandes: acima de 1200px
     }
 }
 
-@media screen and (min-width: 561px) and (max-width: 3000px){
+@media screen and (min-width: 660px) and (max-width: 3000px){
 
     main{
         background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-        height: 100vh;
+        height: 110vh;
         padding-top: 10vh;
-        padding-bottom: 35vh;
+        padding-bottom: 55vh;
     }
 }
 
