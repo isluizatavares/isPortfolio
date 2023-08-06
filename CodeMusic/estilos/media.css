@@ -17,7 +17,7 @@ Grandes: acima de 1200px
     padding: 0px;
 }
 
-@media screen and (min-width: 370px) and (max-width: 599px){
+@media screen and (min-width: 370px) and (max-width: 560px){
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
@@ -50,13 +50,13 @@ Grandes: acima de 1200px
     }
 }
 
-@media screen and (min-width: 600px) and (max-width: 3000px){
+@media screen and (min-width: 561px) and (max-width: 3000px){
 
     main{
         background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
         height: 100vh;
         padding-top: 10vh;
-        padding-bottom: 45vh;
+        padding-bottom: 35vh;
     }
 }
 
