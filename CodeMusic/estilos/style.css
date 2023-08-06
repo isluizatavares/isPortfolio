@@ -8,17 +8,12 @@
     padding: 0px;
 }
 
-main{
-    background-color: lightcyan;
-    background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-    height: 100vh;
-    padding-top: 6vh;
-}
+
 
 div{
     background-color: rgba(255, 255, 255, 0.856);
     width: 400px;
-    height: 600px;
+    height: 580px;
     margin: auto;
     border-radius: 15px;
     box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
@@ -27,7 +22,7 @@ div{
 main > div > img.img1{
     width: 250px;
     padding-left: 20%;
-    padding-top: 20%;
+    padding-top: 16%;
 }
 
 main > div > img.img{
@@ -96,7 +91,7 @@ main > div > p#link > a:hover{
 footer#rodape { 
     background-image: linear-gradient(to top,  #000000, rgb(48, 45, 46));
     color: #ffffff;
-    padding: 18px;
+    padding: 15px;
     font-size: 15px; 
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;

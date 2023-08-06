@@ -17,12 +17,12 @@ Grandes: acima de 1200px
     padding: 0px;
 }
 
-@media screen and (min-width: 374px) and (max-width: 992px){
+@media screen and (min-width: 370px) and (max-width: 599px){
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
         width: 280px;
-        height: 452px;
+        height: 465px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
@@ -30,13 +30,13 @@ Grandes: acima de 1200px
     
     main > div > img.img1{
         width: 215px;
-        padding-left: 11%;
-        padding-top: 6%;
+        padding-left: 12%;
+        padding-top: 8%;
     }
     
     main > div > img.img{
         width: 215px;
-        padding-left: 11%;
+        padding-left: 12%;
     }
     
     main > div > p{
@@ -44,7 +44,23 @@ Grandes: acima de 1200px
     }
 
     main{
-        padding-bottom: 14vh;
+        background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
+        height: 90vh;
+        padding-top: 25vh;
     }
 }
+
+@media screen and (min-width: 600px) and (max-width: 3000px){
+
+    main{
+        background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
+        height: 100vh;
+        padding-top: 10vh;
+        padding-bottom: 35vh;
+    }
+}
+
+
+
+
 
