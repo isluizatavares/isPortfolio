@@ -17,7 +17,12 @@ Grandes: acima de 1200px
     padding: 0px;
 }
 
-@media screen and (min-width: 370px) and (max-width: 560px){
+@media screen and (min-width: 300px) and (max-width: 648px){
+
+    main{
+        height: 90vh;
+        padding-top: 25vh;
+    }
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
@@ -43,22 +48,37 @@ Grandes: acima de 1200px
         text-align: center;
     }
 
+}
+
+@media screen and (min-width: 649px) and (max-width: 1366px){
+
+    div{
+        background-color: rgba(255, 255, 255, 0.856);
+        width: 300px;
+        height: 485px;
+        margin: auto;
+        border-radius: 15px;
+        box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
+    }
+    
+    main > div > img.img1{
+        width: 215px;
+        padding-left: 14%;
+        padding-top: 12%;
+    }
+    
+    main > div > img.img{
+        width: 215px;
+        padding-left: 14%;
+    }
+
     main{
-        background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-        height: 90vh;
-        padding-top: 25vh;
+        padding-top: 28vh;
+        padding-bottom: 57vh;
     }
 }
 
-@media screen and (min-width: 660px) and (max-width: 3000px){
 
-    main{
-        background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
-        height: 110vh;
-        padding-top: 10vh;
-        padding-bottom: 55vh;
-    }
-}
 
 
 

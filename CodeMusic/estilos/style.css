@@ -8,6 +8,11 @@
     padding: 0px;
 }
 
+main{
+    background-image: linear-gradient(to bottom,  rgb(155, 26, 95), rgb(236, 112, 178));
+    height: 85vh;
+    padding-top: 30vh;
+}
 
 
 div{
