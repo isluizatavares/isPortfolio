@@ -26,21 +26,21 @@ Grandes: acima de 1200px
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
-        width: 280px;
-        height: 465px;
+        width: 278px;
+        height: 462px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
     }
     
     main > div > img.img1{
-        width: 215px;
+        width: 210px;
         padding-left: 12%;
         padding-top: 8%;
     }
     
     main > div > img.img{
-        width: 215px;
+        width: 210px;
         padding-left: 12%;
     }
     
@@ -54,27 +54,27 @@ Grandes: acima de 1200px
 
     div{
         background-color: rgba(255, 255, 255, 0.856);
-        width: 300px;
-        height: 485px;
+        width: 295px;
+        height: 480px;
         margin: auto;
         border-radius: 15px;
         box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.233);
     }
     
     main > div > img.img1{
-        width: 215px;
+        width: 212px;
         padding-left: 14%;
         padding-top: 12%;
     }
     
     main > div > img.img{
-        width: 215px;
+        width: 212px;
         padding-left: 14%;
     }
 
     main{
-        padding-top: 24vh;
-        padding-bottom: 54vh;
+        padding-top: 48vh;
+        padding-bottom: 48vh;
     }
 }
 
